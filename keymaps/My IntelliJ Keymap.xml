@@ -1,0 +1,217 @@
+<keymap version="1" name="My IntelliJ Keymap" parent="Mac OS X 10.5+">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt t" />
+  </action>
+  <action id="Back" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt minus" />
+  </action>
+  <action id="CollapseRegion" />
+  <action id="CollapseRegionRecursively" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.Jpa.Terminate" />
+  <action id="CopyPaths" />
+  <action id="CopyReference" />
+  <action id="EditSource" />
+  <action id="EditSourceInNewWindow">
+    <keyboard-shortcut first-keystroke="shift f4" />
+    <keyboard-shortcut first-keystroke="shift equals" second-keystroke="back_space" />
+  </action>
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+  </action>
+  <action id="EditorAddCaretPerSelectedLine" />
+  <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorChooseLookupItem" />
+  <action id="EditorChooseLookupItemDot" />
+  <action id="EditorChooseLookupItemReplace" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt down" />
+  </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStart" />
+  <action id="EditorCodeBlockStartWithSelection" />
+  <action id="EditorCompleteStatement" />
+  <action id="EditorCreateRectangularSelection" />
+  <action id="EditorCreateRectangularSelectionOnMouseDrag" />
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="EditorCutLineEnd" />
+  <action id="EditorDecreaseFontSizeGlobal" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt delete" />
+  </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt end" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt home" />
+  </action>
+  <action id="EditorDeleteToWordEnd" />
+  <action id="EditorDeleteToWordStart" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt d" />
+  </action>
+  <action id="EditorFocusGutter" />
+  <action id="EditorIncreaseFontSizeGlobal" />
+  <action id="EditorJoinLines" />
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt j" />
+  </action>
+  <action id="EditorMatchBrace" />
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageBottomWithSelection" />
+  <action id="EditorMoveToPageTop" />
+  <action id="EditorMoveToPageTopWithSelection" />
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt right" />
+  </action>
+  <action id="EditorNextWordWithSelection" />
+  <action id="EditorPageDown" />
+  <action id="EditorPageDownWithSelection" />
+  <action id="EditorPageUp" />
+  <action id="EditorPageUpWithSelection" />
+  <action id="EditorPasteFromX11" />
+  <action id="EditorPasteSimple" />
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt left" />
+  </action>
+  <action id="EditorPreviousWordWithSelection" />
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="EditorSelectWord" />
+  <action id="EditorShowGutterIconTooltip" />
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine" />
+  <action id="EditorStartNewLineBefore" />
+  <action id="EditorTextEnd" />
+  <action id="EditorTextEndWithSelection" />
+  <action id="EditorTextStart" />
+  <action id="EditorTextStartWithSelection" />
+  <action id="EditorToggleCase" />
+  <action id="EditorToggleColumnMode" />
+  <action id="EditorUnSelectWord" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
+  <action id="EmojiAndSymbols" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt equals" />
+  </action>
+  <action id="ExpandRegion" />
+  <action id="ExpandRegionRecursively" />
+  <action id="FindInPath" />
+  <action id="FindNext" />
+  <action id="FindPrevious" />
+  <action id="FindUsages" />
+  <action id="FindUsagesInFile" />
+  <action id="FocusEditor">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt f" />
+  </action>
+  <action id="Forward" />
+  <action id="Generate" />
+  <action id="GotoClass" />
+  <action id="GotoCustomRegion" />
+  <action id="GotoFile" />
+  <action id="GotoLine" />
+  <action id="GotoNextElementUnderCaretUsage" />
+  <action id="GotoNextError" />
+  <action id="GotoPrevElementUnderCaretUsage" />
+  <action id="GotoPreviousError" />
+  <action id="GotoSymbol" />
+  <action id="GotoUrlAction" />
+  <action id="HighlightUsagesInFile" />
+  <action id="ImplementMethods" />
+  <action id="InsertLiveTemplate" />
+  <action id="Jdbc.OpenConsole.New.Generate" />
+  <action id="JumpToLastChange" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="NextOccurence" />
+  <action id="NextParameter" />
+  <action id="NextTemplateVariable" />
+  <action id="OpenInRightSplit" />
+  <action id="OverrideMethods" />
+  <action id="ParserActionId" />
+  <action id="PasteMultiple" />
+  <action id="PrevParameter" />
+  <action id="PreviousOccurence" />
+  <action id="PreviousTemplateVariable" />
+  <action id="QuickChangeScheme" />
+  <action id="QuickImplementations" />
+  <action id="QuickJavaDoc" />
+  <action id="RecentChanges" />
+  <action id="RecentFiles" />
+  <action id="RecentLocations" />
+  <action id="ReplaceInPath" />
+  <action id="SelectAllOccurrences" />
+  <action id="SelectNextOccurrence" />
+  <action id="SelectVirtualTemplateElement" />
+  <action id="ShowBookmarks" />
+  <action id="ShowSettingsAndFindUsages" />
+  <action id="ShowTypeBookmarks" />
+  <action id="ShowUsages" />
+  <action id="SurroundWith" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Synchronize" />
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Terminal.NextSplitter" />
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="Terminal.PrevSplitter" />
+  <action id="Terminal.SelectAll" />
+  <action id="Terminal.SmartCommandExecution.Debug" />
+  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="TextSearchAction" />
+  <action id="ToggleBookmark" />
+  <action id="ToggleBookmarkWithMnemonic" />
+  <action id="ToggleFindInSelection" />
+  <action id="ToggleFullScreen" />
+  <action id="UnselectPreviousOccurrence" />
+  <action id="Unwrap" />
+  <action id="ViewSource" />
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase" />
+</keymap>

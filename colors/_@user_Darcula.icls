@@ -1,0 +1,274 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2023-07-03T13:24:35</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2023.1.3.0.0</property>
+    <property name="modified">2023-07-03T14:13:44</property>
+    <property name="originalScheme">Darcula</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
+  <attributes>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="f7998f" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="9d9df2" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="fcc7d5" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="e76df2" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="f97ad5" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR5">
+      <value>
+        <option name="FOREGROUND" value="ffa0e2" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR6">
+      <value>
+        <option name="FOREGROUND" value="eb8cf2" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR7">
+      <value>
+        <option name="FOREGROUND" value="efa0e7" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR8">
+      <value>
+        <option name="FOREGROUND" value="ffa0e2" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR9">
+      <value>
+        <option name="FOREGROUND" value="f46ee7" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="INDENT_GUIDES_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="f4c0b0" />
+      </value>
+    </option>
+    <option name="INDENT_GUIDES_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="6d79e8" />
+      </value>
+    </option>
+    <option name="INDENT_GUIDES_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="9ff9aa" />
+      </value>
+    </option>
+    <option name="INDENT_GUIDES_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="e070ef" />
+      </value>
+    </option>
+    <option name="INDENT_GUIDES_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="ef97ec" />
+      </value>
+    </option>
+    <option name="INDENT_GUIDES_RAINBOW_COLOR5">
+      <value>
+        <option name="FOREGROUND" value="ed90bb" />
+      </value>
+    </option>
+    <option name="INDENT_GUIDES_RAINBOW_COLOR6">
+      <value>
+        <option name="FOREGROUND" value="de6bef" />
+      </value>
+    </option>
+    <option name="INDENT_GUIDES_RAINBOW_COLOR7">
+      <value>
+        <option name="FOREGROUND" value="f984cc" />
+      </value>
+    </option>
+    <option name="INDENT_GUIDES_RAINBOW_COLOR8">
+      <value>
+        <option name="FOREGROUND" value="f49cea" />
+      </value>
+    </option>
+    <option name="INDENT_GUIDES_RAINBOW_COLOR9">
+      <value>
+        <option name="FOREGROUND" value="e8aef9" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="f9c39d" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="f998e9" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="7c9cf9" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="e86f89" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="e0a8f7" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR5">
+      <value>
+        <option name="FOREGROUND" value="f98bee" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR6">
+      <value>
+        <option name="FOREGROUND" value="fc8fdb" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR7">
+      <value>
+        <option name="FOREGROUND" value="f2a7c8" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR8">
+      <value>
+        <option name="FOREGROUND" value="f07fff" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR9">
+      <value>
+        <option name="FOREGROUND" value="f7adda" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="ffdabf" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="95f99c" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="c9ffff" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="f49289" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="fc74af" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR5">
+      <value>
+        <option name="FOREGROUND" value="f7aacf" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR6">
+      <value>
+        <option name="FOREGROUND" value="f4b0f0" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR7">
+      <value>
+        <option name="FOREGROUND" value="da75ff" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR8">
+      <value>
+        <option name="FOREGROUND" value="fc97fa" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR9">
+      <value>
+        <option name="FOREGROUND" value="f794cf" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="a9fce4" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="897af9" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="84f992" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="f99477" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="ffbcdc" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR5">
+      <value>
+        <option name="FOREGROUND" value="ffcce9" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR6">
+      <value>
+        <option name="FOREGROUND" value="ffadde" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR7">
+      <value>
+        <option name="FOREGROUND" value="fca4ef" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR8">
+      <value>
+        <option name="FOREGROUND" value="f9aede" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR9">
+      <value>
+        <option name="FOREGROUND" value="f477bc" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

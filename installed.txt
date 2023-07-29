@@ -1,0 +1,20 @@
+com.intellij.plugin.applescript
+de.netnexus.camelcaseplugin
+org.jetbrains.settingsRepository
+Keymap exporter
+com.github.copilot
+io.fig.jetbrains
+org.zalando.intellij.swagger
+Key Promoter X
+com.atlassian.bitbucket.references
+com.godwin.json.parser
+com.flageolett.nodeconfig
+Pythonid
+ru.meanmail.plugin.requirements
+org.sonarlint.idea
+app.pieces.plugins.jetbrains
+izhangzhihao.rainbow.brackets
+pro.bashsupport
+ru.adelf.idea.dotenv
+com.mallowigi
+mobi.hsz.idea.gitignore
